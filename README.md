@@ -11,7 +11,7 @@
   - An Express server with 9 seperate routes, 3 of which will be of different sports, which will contain information on teams, with each team then containing (at least) 2 teams within.
   - Each parent route containing the Sport will have a JSON object about the teams
   - Each Team route nested inside of their respective sport will have information on at least 3 players (You can make up this data, it does not need to be 100% real)
-  - 
+    
   -   Your parent Routes can look like
 
     ```js
@@ -21,6 +21,8 @@
     ```
 
     With the data looking like (but not exactly like this)
+
+    
     ```js
     //baseball
     [
@@ -33,7 +35,7 @@
     ]
     ```
 
-    And your nested route within containing
+    And your nested routes within containing:
 
     ```js
     //baseball/yankees
