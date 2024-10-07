@@ -54,8 +54,13 @@
       ]
     ```
 
+   set up something like
+   - localhost:3001/baseball/new_york_yankees
+   - localhost:3001/baseball/new-york-mets
+   - localhost:3001/football/kansas%20city%20chiefs
+
  ![](https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4F83F04CB6407810D660D38797B36BDD5FD29752312BA214EACC0D2D91BB03AE/scale?width=440&aspectRatio=1.78&format=webp)   
 
 ## Bonus 
-  Add an additional block of Route and put in what division or conference the teams are in as well! National, American, East West North or South...
-    
+  - Add an additional block of Route and put in what division or conference the teams are in as well! National, American, East West North or South...
+   
